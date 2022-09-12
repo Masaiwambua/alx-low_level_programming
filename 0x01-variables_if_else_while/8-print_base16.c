@@ -7,20 +7,20 @@
  * Return:always 0 (success)
  */
 
-int main()
+int main(void)
 {
 	int ch = '0';
 	
-	for (ch='0'; ch<='9'; ch++)
+	for (ch = '0'; ch <= '9'; ch++)
 		putchar(ch);
 
 	int cha = 97;
 	
-	for (cha=97; cha<=102; cha++)
+	for (cha = 97; cha <= 102; cha++)
 		putchar(cha);
 
 	putchar(10);
 
-	return 0;
+	return (0);
 
 }

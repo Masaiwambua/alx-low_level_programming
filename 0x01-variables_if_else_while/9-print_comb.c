@@ -14,5 +14,6 @@ int main(void)
 	for (ch = '0'; ch <= '9'; ch++)
 		putchar(ch), putchar(44), putchar(32);
 	putchar(10);
+
 	return (0);
 }

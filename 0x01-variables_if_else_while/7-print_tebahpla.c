@@ -7,13 +7,13 @@
  * Return:always 0 (success)
  */
 
-int main ()
+int main(void)
 {
 	int ch;
 
-	for (ch=122; ch>=97; ch--)
+	for (ch = 122; ch >= 97; ch--)
 		putchar(ch);
 	putchar(10);
 
-	return 0;
+	return (0);
 }
