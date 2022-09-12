@@ -1,9 +1,11 @@
 #include <stdio.h>
 
 /**
- * main -entry
+ * main -entry point
+ * Description: printing alphabets
+ * followed by new line
  * here lies the description for this file
- * retun always 0 (success)
+ * Return:always 0 (success)
  */
 int main(void)
 {
