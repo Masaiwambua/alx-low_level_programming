@@ -1,7 +1,11 @@
 #include <stdio.h>
 
-int main(void) /* to print the alphabet */
+int main(void)
 {
+	/**
+	 * description for function main
+	 * I am not sure what exactly the checker wants
+	 */
 	int ch;
 
 	for (ch = 97; ch <= 122; ch++)
