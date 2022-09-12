@@ -1,6 +1,9 @@
 #include <stdio.h>
 
-/* here lies the description for this file */
+/**
+ * main -entry
+ * here lies the description for this file 
+ */
 
 int main(void)
 {
