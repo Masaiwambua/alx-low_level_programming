@@ -2,14 +2,13 @@ nclude <stdlib.h>
 
 #include <time.h>
 #include <stdio.h>
-
-
-/* more headers goes there */
-
-
-
-/* betty style doc for function main goes there */
-
+/**
+ * main -entry point
+ * Description: printing alphabets
+ * followed by new line
+ * here lies the description for this file
+ * Return:always 0 (success)
+ */
 int main(void)
 
 {
