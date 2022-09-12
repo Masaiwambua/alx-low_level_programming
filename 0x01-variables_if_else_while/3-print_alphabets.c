@@ -3,8 +3,11 @@
 int main(void)
 {
 	/**
-	 * description for function main
+	 * main - Entry point
+	 * Descrription: for function main
+	 * followed by a new line
 	 * I am not sure what exactly the checker wants
+	 * return Always 0 (successful)
 	 */
 	int ch;
 
