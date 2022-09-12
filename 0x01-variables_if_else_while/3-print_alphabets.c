@@ -1,14 +1,10 @@
 #include <stdio.h>
 
+/* here lies the description for this file */
+
 int main(void)
 {
-	/**
-	 * main - Entry point
-	 * Descrription: for function main
-	 * followed by a new line
-	 * I am not sure what exactly the checker wants
-	 * return Always 0 (successful)
-	 */
+	
 	int ch;
 
 	for (ch = 97; ch <= 122; ch++)
