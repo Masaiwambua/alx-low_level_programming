@@ -8,12 +8,13 @@
  * 
  */
 
-void print_alphabet(int naruto)
+
+void print_alphabet( int naruto )
 {
 	for (naruto = 97; naruto <= 122; naruto++)
 		putchar(naruto);
-	return ;
-
+}
+/*
 }
 int main(void)
 {
@@ -22,3 +23,5 @@ int main(void)
 	putchar(10);
 	return (0);
 }
+*/
+
