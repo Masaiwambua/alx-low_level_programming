@@ -9,7 +9,6 @@
 int main(void)
 {
 	puts("\"progrmaming is like building a multilingual puzzle");
-	puts("\n");
 	
 	return (0);
 }
